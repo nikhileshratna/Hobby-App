@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "react-hot-toast": "^2.4.1",
+    "toast": "^0.5.4"
+  }
+}
